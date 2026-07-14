@@ -1,155 +1,276 @@
 <h1 align="center">Hi 👋, I'm Shanthosh S</h1>
 
 <h3 align="center">
-Mechanical Engineer | Full Stack Developer | Industrial Automation Enthusiast
+Mechanical Engineer ⚙️ | Full Stack Developer 💻 | Industrial Automation Enthusiast 🤖
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Mechanical+Engineering+Student;Full+Stack+Developer;Industrial+Automation+Enthusiast;React+%7C+Node.js+%7C+MongoDB;PLC+%7C+IoT+%7C+ESP32;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Mechanical+Engineering+Student;Full+Stack+Developer;Industrial+Automation+Engineer;React+%7C+Node.js+%7C+MongoDB;IoT+Developer+%7C+ESP32;Industry+4.0+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Final Year Mechanical Engineering Student
 
-🏭 Interested in
+🏭 Passionate about
 
-- Industrial Automation
 - Manufacturing Engineering
 - Product Design
-- PLC & SCADA
-- IoT Systems
-- Full Stack Development
+- Industrial Automation
+- Mechanical Design
+- Industry 4.0
+- Full Stack Web Development
+- Industrial IoT
 
-💻 Currently Building
+⚡ I enjoy combining Mechanical Engineering with Software Development to build intelligent industrial solutions.
 
-- JST Automation Company Website
-- Customer Portal
-- Invoice Management System
-- Industrial Product Catalogue
-- ESP32 Automation Projects
-
-🏆 Achievements
-
-- 🥉 Overall 3rd Prize – SAEISS Bicycle Design Challenge
-- NPTEL Certified – Joining Technologies for Metals
-- Industrial Internship Experience
-
-🌱 Currently Learning
-
-- Advanced React
-- Node.js
-- MongoDB
-- Industrial PLC Automation
-- Docker
-- Cloud Deployment
+💡 I believe the future belongs to engineers who can bridge machines and software.
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Current Focus
 
-<p align="left">
+✔ Developing **JST Automation**
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+✔ Customer Portal
 
-<a href="https://YOURPORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+✔ Industrial Product Management
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+✔ Invoice & Billing System
 
-</p>
+✔ PLC Automation Website
+
+✔ Industrial IoT Projects
+
+✔ React + Node.js Applications
 
 ---
 
-# 💻 Tech Stack
+# 🏭 Internship Experience
+
+## Ashok Leyland
+
+Industrial Internship
+
+✔ Manufacturing Process
+
+✔ Production Planning
+
+✔ Assembly Operations
+
+✔ Quality Inspection
+
+✔ Industrial Safety
+
+✔ Lean Manufacturing
+
+✔ Automotive Production Systems
+
+This internship strengthened my understanding of real-world manufacturing environments and industrial engineering practices.
+
+---
+
+# 🏆 Achievements
+
+🥉 Overall 3rd Prize
+
+SAEISS Bicycle Design Challenge
+
+🏅 NPTEL Certified
+
+Joining Technologies for Metals
+
+🏆 National Level Engineering Competition Participant
+
+💻 Built JST Automation Industrial Website
+
+---
+
+# 🌐 Portfolio & Contact
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,bootstrap,tailwind,git,github,vscode,postman,vite"/>
+<a href="https://shanthoshportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shanthoshmechanical/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shanthosh5116@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
 ---
 
-## ⚙ Mechanical Engineering
+# 💻 Programming Languages
 
-- SolidWorks
-- AutoCAD
-- ANSYS (Basics)
-- Engineering Drawing
-- Manufacturing Processes
-- Product Development
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,bootstrap,tailwind,git,github,vscode,postman"/>
+
+</p>
 
 ---
 
-## ⚡ Automation
+# ⚙ Mechanical Engineering Skills
 
-- PLC
-- SCADA
-- ESP32
-- Arduino
-- Firebase
-- IoT
+- Product Design
+
+- CAD Modelling
+
+- SolidWorks
+
+- AutoCAD
+
+- Engineering Drawing
+
+- Manufacturing Technology
+
+- Welding & Joining
+
+- GD&T
+
+- Material Selection
+
+- Production Engineering
+
+- Lean Manufacturing
+
+- Quality Control
+
+---
+
+# 🤖 Industrial Automation
+
+- PLC Basics
+
 - Industrial Sensors
+
+- ESP32
+
+- Arduino
+
+- IoT
+
+- Firebase
+
+- Relay Automation
+
+- Smart Irrigation
+
+- Automation Dashboard
+
+---
+
+# 🛠 Software & Tools
+
+- VS Code
+
+- Git
+
+- GitHub
+
+- MongoDB
+
+- Postman
+
+- Vercel
+
+- Render
+
+- Railway
+
+- Cloudinary
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏭 JST Automation Website
+## 🏭 JST Automation
 
-Industrial automation company website with
+Industrial Automation Company Website
 
-- Customer Login
-- Product Catalogue
-- Quotation Request
-- Invoice Management
-- Admin Dashboard
-- Secure Authentication
+### Features
 
-**Tech**
+✔ Customer Login
 
-React • Node.js • Express • MongoDB
+✔ Product Catalogue
+
+✔ Quotation Request
+
+✔ Admin Dashboard
+
+✔ Invoice Management
+
+✔ Authentication
+
+✔ Contact Management
+
+**Tech Stack**
+
+React
+
+Node.js
+
+Express
+
+MongoDB
+
+JWT
+
+Cloudinary
 
 ---
 
-## 🌱 Smart Agriculture Automation
+## 🌾 Smart Agriculture IoT
 
-ESP32 based irrigation monitoring system using
+ESP32 Based Automation
 
-- Firebase
-- Relay Automation
-- Real-time Dashboard
+Features
+
 - Motor Control
-- IoT Monitoring
+
+- Firebase Database
+
+- Relay Automation
+
+- Mobile Dashboard
+
+- Live Monitoring
 
 ---
 
-## 🚲 SAE Bicycle Design Project
+## 🚲 SAE Bicycle Design
 
 National Level Competition Project
 
-- AISI 4130 Frame Design
-- CAD Design
+Highlights
+
+- Chassis Design
+
+- AISI 4130 Material
+
+- CAD Modelling
+
 - Manufacturing
-- Structural Analysis
+
+- Structural Design
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -159,17 +280,17 @@ National Level Competition Project
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
 
 </p>
 
@@ -179,52 +300,84 @@ National Level Competition Project
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 📚 Currently Learning
 
-✅ Secure a Core Mechanical Engineering Job
+✔ Docker
 
-✅ Build JST Automation into a Professional Industrial Website
+✔ AWS Cloud
 
-✅ Learn PLC Programming
+✔ PLC Programming
 
-✅ Master MERN Stack
+✔ Industrial Communication Protocols
 
-✅ Learn Docker & AWS
+✔ SCADA
 
-✅ Contribute to Open Source
+✔ Advanced React
 
-✅ Develop Industrial IoT Solutions
+✔ Backend Architecture
+
+✔ Industrial Robotics
+
+✔ AI in Manufacturing
 
 ---
 
-# 💡 Quote
+# 🎯 Career Objective
 
-> "Engineering is the bridge between imagination and reality."
+To build innovative industrial automation solutions by integrating Mechanical Engineering, Manufacturing, IoT, Embedded Systems, and Full Stack Web Technologies while contributing to modern Industry 4.0 environments.
+
+---
+
+# 📌 Areas of Interest
+
+⚙ Product Design
+
+🏭 Manufacturing
+
+🤖 Industrial Automation
+
+📡 IoT
+
+💻 Web Development
+
+📊 Data Visualization
+
+🚀 Industry 4.0
+
+🧠 Smart Manufacturing
+
+---
+
+# 💬 Quote
+
+> "Engineering is where innovation meets execution."
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+⭐ Thank You for Visiting My Profile ⭐
 
-</h3>
+</h2>
 
 <p align="center">
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you like my projects, don't forget to ⭐ them.
+
+Let's build the future of Industry 4.0 together!
 
 </p>
