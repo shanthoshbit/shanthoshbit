@@ -14,8 +14,6 @@ Mechanical Engineer | Full Stack Developer | Industrial Automation
 
 - 🎓 Final Year Mechanical Engineering Student
 - ⚙️ Passionate about Manufacturing & Automation
-- 💻 Full Stack Developer
-- 🤖 IoT & ESP32 Developer
 - 🚀 Always learning new technologies
 
 ---
@@ -24,7 +22,7 @@ Mechanical Engineer | Full Stack Developer | Industrial Automation
 
 - SolidWorks
 - AutoCAD
-- ANSYS (Basics)
+- ANSYS 
 - Mechanical Design
 - CAD Modelling
 - Product Design
