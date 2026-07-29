@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanthosh S</h1>
 
 <h3 align="center">
-Mechanical Engineer | Full Stack Developer | Industrial Automation
+Mechanical Engineer | Industrial Automation
 </h3>
 
 <p align="center">
@@ -59,7 +59,7 @@ React • Node.js • MongoDB
 
 ### 🌾 Smart Agriculture
 
-ESP32 + Firebase Smart Irrigation System
+Smart Irrigation System
 
 ---
 
